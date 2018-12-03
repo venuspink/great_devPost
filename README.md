@@ -7,3 +7,6 @@
 
 ## 기타 Tip
 * [마크다운 markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+
+## 이직준비, 이력서 작성
+* [이직초보 어느 개발자의 이력서 만들기](http://woowabros.github.io/experience/2017/07/17/resume.html)
