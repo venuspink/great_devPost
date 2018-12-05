@@ -8,6 +8,9 @@
 ## 앱개발, 플러터(Flutter) 
 * [구글 플러터(Flutter)를 시작하기까지…](https://medium.com/@changjoopark/%EA%B5%AC%EA%B8%80-%ED%94%8C%EB%9F%AC%ED%84%B0-flutter-%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-18c06cec95e3)
 
+## 오픈소스
+* [Apache Kafka 1. 소개및 아키텍처 정리](http://epicdevs.com/17)
+
 ## 기타 Tip
 * [마크다운 markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
