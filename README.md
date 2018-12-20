@@ -2,6 +2,7 @@
 * [Java Enum 활용기](http://woowabros.github.io/tools/2017/07/10/java-enum-uses.html)
 * [자바 예외처리가이드](https://www.slideshare.net/dhrim/ss-2804901)
 * [Mkyong.com - How To Get HTTP Request Header In Java](https://www.mkyong.com/java/how-to-get-http-request-header-in-java/)
+* [Anti-OOP : if 를 피하고 싶어서](http://redutan.github.io/2016/03/31/anti-oop-if)
 
 ## 자바스크립트 
 * [자바스크립트의 변수범위와 호이스팅](http://chanlee.github.io/2013/12/10/javascript-variable-scope-and-hoisting/)
