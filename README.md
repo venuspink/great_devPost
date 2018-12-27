@@ -33,3 +33,4 @@
 * [이직초보 어느 개발자의 이력서 만들기](http://woowabros.github.io/experience/2017/07/17/resume.html)
 * [OKKY - 신입 최종면접 후기 (+느낀점)](https://okky.kr/article/528879)
 * [OKKY - 경력직 면접시 자기소개 참고](https://okky.kr/article/469286)
+* [안드로이드 개발자 면접 질문](https://docs.google.com/spreadsheets/d/1GRKnayn4B5I9VIrKlfDbE3PogwQtKNcofw9UrYwrc1M/edit#gid=0)
