@@ -12,6 +12,7 @@
 * [자바스크립트 개발자를 위한 타입스크립트(깃북)](https://ahnheejong.gitbook.io/ts-for-jsdev/)
 * [훌륭한 자바스크립트 개발자가 되는 법](https://brunch.co.kr/@chiyodad/9)
 * [EBOOK Eloquent JavaScript](http://eloquentjavascript.net/)
+* [webpack 설정파일을 한땀한땀 만들어 보자](https://github.com/hg-pyun/step-by-step-webpack-config)
 
 ## Vue JS
 * [JSP jstl+el과 함께 Vue 사용하기](https://stackoverflow.com/questions/42175382/vue-js-directives-do-not-work-in-jsp)
