@@ -3,6 +3,7 @@
 * [자바 예외처리가이드](https://www.slideshare.net/dhrim/ss-2804901)
 * [Mkyong.com - How To Get HTTP Request Header In Java](https://www.mkyong.com/java/how-to-get-http-request-header-in-java/)
 * [Anti-OOP : if 를 피하고 싶어서](http://redutan.github.io/2016/03/31/anti-oop-if)
+* [천만 명의 사용자에게 1분 내로 알림 보내기 (병렬프로세스의 최적화)](https://taetaetae.github.io/2019/01/02/faster-parallel-processes/)
 
 ## 자바스크립트 
 * [자바스크립트의 변수범위와 호이스팅](http://chanlee.github.io/2013/12/10/javascript-variable-scope-and-hoisting/)
