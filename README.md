@@ -32,7 +32,8 @@
 
 ## 알고리즘
 * [A*(A star) 알고리즘 정의 및 개념](http://itmining.tistory.com/66)
-* [[Youtube]A* pathfinding for beginners implementation (theory)](https://www.youtube.com/watch?v=T8mgXpW1_vc)
+* [[Youtube] A* pathfinding for beginners implementation (theory)](https://www.youtube.com/watch?v=T8mgXpW1_vc)
+* [[Youtube] A* Pathfinding (E01: algorithm explanation)](https://www.youtube.com/watch?v=-L-WgKMFuhE&t=208s)
 
 ## 기타 Tip
 * [마크다운 markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
