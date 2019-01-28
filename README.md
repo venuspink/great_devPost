@@ -28,6 +28,9 @@
 * [구글 플러터(Flutter)를 시작하기까지…](https://medium.com/@changjoopark/%EA%B5%AC%EA%B8%80-%ED%94%8C%EB%9F%AC%ED%84%B0-flutter-%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-18c06cec95e3)
 * [[백기선] 플러터 Flutter 맛보기](https://www.youtube.com/watch?v=KOPVyBQrM78&t=5831s)
 
+## 도커(docker)
+* [도커를 이용한 웹서비스 무중단 배포하기](https://subicura.com/2016/06/07/zero-downtime-docker-deployment.html)
+
 ## 오픈소스
 * [Apache Kafka 1. 소개및 아키텍처 정리](http://epicdevs.com/17)
 * [2019년 웹/앱 개발의 전망과 화두](https://medium.com/harrythegreat/2019%EB%85%84-%EC%9B%B9-%EC%95%B1-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%A0%84%EB%A7%9D%EA%B3%BC-%ED%99%94%EB%91%90-654d00686a59)
