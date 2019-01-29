@@ -30,6 +30,7 @@
 
 ## 도커(docker)
 * [도커를 이용한 웹서비스 무중단 배포하기](https://subicura.com/2016/06/07/zero-downtime-docker-deployment.html)
+* [Docker container IP 확인](https://bluese05.tistory.com/36)
 
 ## 오픈소스
 * [Apache Kafka 1. 소개및 아키텍처 정리](http://epicdevs.com/17)
