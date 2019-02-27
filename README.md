@@ -40,6 +40,9 @@
 * [Apache Kafka 1. 소개및 아키텍처 정리](http://epicdevs.com/17)
 * [2019년 웹/앱 개발의 전망과 화두](https://medium.com/harrythegreat/2019%EB%85%84-%EC%9B%B9-%EC%95%B1-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%A0%84%EB%A7%9D%EA%B3%BC-%ED%99%94%EB%91%90-654d00686a59)
 
+## WAS, 웹서버
+* [JVM과 톰캣 튜닝](https://www.slideshare.net/cinari4/jvmgc)
+
 ## 알고리즘
 * [A*(A star) 알고리즘 정의 및 개념](http://itmining.tistory.com/66)
 * [[Youtube] A* pathfinding for beginners implementation (theory)](https://www.youtube.com/watch?v=T8mgXpW1_vc)
