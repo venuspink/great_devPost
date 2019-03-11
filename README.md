@@ -41,6 +41,7 @@
 ## 도커(docker)
 * [도커를 이용한 웹서비스 무중단 배포하기](https://subicura.com/2016/06/07/zero-downtime-docker-deployment.html)
 * [Docker container IP 확인](https://bluese05.tistory.com/36)
+* [왜 굳이 도커(컨테이너)를 써야 하나요?](https://www.44bits.io/ko/post/why-should-i-use-docker-container#%EC%9A%B4%EC%98%81%ED%95%98%EB%A9%B4%EC%84%9C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A7%80%EB%8A%94-%EB%88%88%EC%86%A1%EC%9D%B4-%EC%84%9C%EB%B2%84%EB%93%A4snowflake-servers)
 
 ## 오픈소스
 * [Apache Kafka 1. 소개및 아키텍처 정리](http://epicdevs.com/17)
