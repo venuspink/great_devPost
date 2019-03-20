@@ -50,6 +50,9 @@
 ## WAS, 웹서버
 * [JVM과 톰캣 튜닝](https://www.slideshare.net/cinari4/jvmgc)
 
+## CSS
+* [A Practical Guide to CSS Variables (Custom Properties)](https://www.sitepoint.com/practical-guide-css-variables-custom-properties/)
+
 ## 알고리즘
 * [A*(A star) 알고리즘 정의 및 개념](http://itmining.tistory.com/66)
 * [[Youtube] A* pathfinding for beginners implementation (theory)](https://www.youtube.com/watch?v=T8mgXpW1_vc)
