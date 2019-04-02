@@ -33,6 +33,7 @@
 * [SpringBoot Web Application War deploy(배포)하기(JBoss,Tomcat)](https://hotte.tistory.com/6)
 * [spring cloud config 구성](https://brunch.co.kr/@springboot/113)
 * [Spring boot와 docker를 이용한 msa](https://www.slideshare.net/heungrae_kim/spring-boot-docker-msa)
+* [Spring REST Docs 문서자동화](https://cheese10yun.github.io/spring-rest-docs/)
 
 ## 앱개발, 플러터(Flutter) 
 * [구글 플러터(Flutter)를 시작하기까지…](https://medium.com/@changjoopark/%EA%B5%AC%EA%B8%80-%ED%94%8C%EB%9F%AC%ED%84%B0-flutter-%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-18c06cec95e3)
