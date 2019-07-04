@@ -8,6 +8,7 @@
 ## 엘라스틱서치
 * [은전한닢 한글형태소 분석기](http://eunjeon.blogspot.com/)
 * [은전한닢 플러그인 설치](http://blog.naver.com/PostView.nhn?blogId=visioner7&logNo=221333744144&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView)
+* [엘라스틱서치 기본사용법](https://12bme.tistory.com/171)
 
 ## Vaadin 바딘 관련
 * [개발하며 배우는 Polymer (1/2)](https://medium.com/@grunty/%EA%B0%9C%EB%B0%9C%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-polymer-1-2-cbea722fc24f)
