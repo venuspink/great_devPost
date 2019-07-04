@@ -5,6 +5,10 @@
 * [Anti-OOP : if 를 피하고 싶어서](http://redutan.github.io/2016/03/31/anti-oop-if)
 * [천만 명의 사용자에게 1분 내로 알림 보내기 (병렬프로세스의 최적화)](https://taetaetae.github.io/2019/01/02/faster-parallel-processes/)
 
+## 엘라스틱서치
+* [은전한닢 한글형태소 분석기](http://eunjeon.blogspot.com/)
+* [은전한닢 플러그인 설치](http://blog.naver.com/PostView.nhn?blogId=visioner7&logNo=221333744144&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView)
+
 ## Vaadin 바딘 관련
 * [개발하며 배우는 Polymer (1/2)](https://medium.com/@grunty/%EA%B0%9C%EB%B0%9C%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-polymer-1-2-cbea722fc24f)
 * [Shadow DOM 201 번역본](https://www.html5rocks.com/ko/tutorials/webcomponents/shadowdom-201/)
