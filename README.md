@@ -86,3 +86,5 @@
 ## 기타
 * https://jjeong.tistory.com/1209
 * http://journal.kiso.or.kr/?p=25
+* [vticker](https://github.com/richhollis/vticker)
+* [vticker2](http://www.htmldrive.net/items/show/266/jquery-vticker-vertical-news-ticker)
