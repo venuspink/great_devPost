@@ -71,6 +71,7 @@
 * [마크다운 markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 * [아키텍처 다이어그램용 솔루션 아이콘](https://cloud.google.com/icons/)
 * [PWA 하루 만에 도입하기(삽질기)](https://evan-moon.github.io/2019/07/06/pwa-with-notification/)
+* [서브라임텍스트 기본 단축키 및 기능](http://junil-hwang.com/blog/sublimtext-%EB%8B%A8%EC%B6%95%ED%82%A4/)
 
 ## 이직준비, 이력서 작성
 * [이직초보 어느 개발자의 이력서 만들기](http://woowabros.github.io/experience/2017/07/17/resume.html)
