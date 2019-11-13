@@ -82,10 +82,3 @@
 * [개발자에서 개발팀장이 되기까지 겪은 다섯가지 큰 실수](https://muchtrans.com/translations/techie-tech-lead-my-5-biggest-mistakes.ko.html)
 
 
-
-
-## 기타
-* https://jjeong.tistory.com/1209
-* http://journal.kiso.or.kr/?p=25
-* [vticker](https://github.com/richhollis/vticker)
-* [vticker2](http://www.htmldrive.net/items/show/266/jquery-vticker-vertical-news-ticker)
