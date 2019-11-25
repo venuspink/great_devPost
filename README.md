@@ -4,6 +4,7 @@
 * [Mkyong.com - How To Get HTTP Request Header In Java](https://www.mkyong.com/java/how-to-get-http-request-header-in-java/)
 * [Anti-OOP : if 를 피하고 싶어서](http://redutan.github.io/2016/03/31/anti-oop-if)
 * [천만 명의 사용자에게 1분 내로 알림 보내기 (병렬프로세스의 최적화)](https://taetaetae.github.io/2019/01/02/faster-parallel-processes/)
+* [java8-람다, 스트림 등 예제 정리 잘 된 블로그](https://futurecreator.github.io/2018/08/02/java-lambda-method-references/)
 
 ## 엘라스틱서치
 * [은전한닢 한글형태소 분석기](http://eunjeon.blogspot.com/)
