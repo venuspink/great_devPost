@@ -84,3 +84,5 @@
 * [개발자에서 개발팀장이 되기까지 겪은 다섯가지 큰 실수](https://muchtrans.com/translations/techie-tech-lead-my-5-biggest-mistakes.ko.html)
 * [java웹개발 기술면접 정리](https://sksggg123.github.io/etc/java-tech-interview/)
 
+
+* [일본](https://uh.dcmys.kr/778)
