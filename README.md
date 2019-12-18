@@ -14,12 +14,6 @@
 * [엘라스틱서치 쿼리DSL 기초](https://bakyeono.net/post/2016-08-20-elasticsearch-querydsl-basic.html)
 * [은전한닢테스트](http://blog.naver.com/PostView.nhn?blogId=theswice&logNo=221308022276)
 
-## Vaadin 바딘 관련
-* [개발하며 배우는 Polymer (1/2)](https://medium.com/@grunty/%EA%B0%9C%EB%B0%9C%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-polymer-1-2-cbea722fc24f)
-* [Shadow DOM 201 번역본](https://www.html5rocks.com/ko/tutorials/webcomponents/shadowdom-201/)
-* [Shadow DOM v1: 자체 포함 웹 구성 요소](https://developers.google.com/web/fundamentals/web-components/shadowdom?hl=ko)
-
-
 ## 자바스크립트 
 * [자바스크립트의 변수범위와 호이스팅](http://chanlee.github.io/2013/12/10/javascript-variable-scope-and-hoisting/)
 * [var, let, const 차이점은?](https://gist.github.com/LeoHeo/7c2a2a6dbcf80becaaa1e61e90091e5d)
@@ -85,6 +79,12 @@
 * [OKKY - 경력직 면접시 자기소개 참고](https://okky.kr/article/469286)
 * [안드로이드 개발자 면접 질문](https://docs.google.com/spreadsheets/d/1GRKnayn4B5I9VIrKlfDbE3PogwQtKNcofw9UrYwrc1M/edit#gid=0)
 * [프론트엔드 개발자 인터뷰 후기 (면접 질문 정리)](https://velog.io/@tmmoond8/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B8%ED%84%B0%EB%B7%B0-%ED%9B%84%EA%B8%B0-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC-%EC%9E%91%EC%84%B1-%EC%A4%91)
+
+## Vaadin 바딘 관련
+* [개발하며 배우는 Polymer (1/2)](https://medium.com/@grunty/%EA%B0%9C%EB%B0%9C%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-polymer-1-2-cbea722fc24f)
+* [Shadow DOM 201 번역본](https://www.html5rocks.com/ko/tutorials/webcomponents/shadowdom-201/)
+* [Shadow DOM v1: 자체 포함 웹 구성 요소](https://developers.google.com/web/fundamentals/web-components/shadowdom?hl=ko)
+
 * [개발자에서 개발팀장이 되기까지 겪은 다섯가지 큰 실수](https://muchtrans.com/translations/techie-tech-lead-my-5-biggest-mistakes.ko.html)
 * [java웹개발 기술면접 정리](https://sksggg123.github.io/etc/java-tech-interview/)
 * [일본여행정보](https://uh.dcmys.kr/778)
