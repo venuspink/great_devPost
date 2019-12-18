@@ -73,7 +73,7 @@
 * [PWA 하루 만에 도입하기(삽질기)](https://evan-moon.github.io/2019/07/06/pwa-with-notification/)
 * [서브라임텍스트 기본 단축키 및 기능](http://junil-hwang.com/blog/sublimtext-%EB%8B%A8%EC%B6%95%ED%82%A4/)
 
-## 이직준비, 이력서 작성
+## 이직준비, 이력서 작성, 일본 여행
 * [이직초보 어느 개발자의 이력서 만들기](http://woowabros.github.io/experience/2017/07/17/resume.html)
 * [OKKY - 신입 최종면접 후기 (+느낀점)](https://okky.kr/article/528879)
 * [OKKY - 경력직 면접시 자기소개 참고](https://okky.kr/article/469286)
