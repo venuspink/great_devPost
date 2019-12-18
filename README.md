@@ -70,6 +70,9 @@
 * [[Youtube] A* pathfinding for beginners implementation (theory)](https://www.youtube.com/watch?v=T8mgXpW1_vc)
 * [[Youtube] A* Pathfinding (E01: algorithm explanation)](https://www.youtube.com/watch?v=-L-WgKMFuhE&t=208s)
 
+## 스칼라
+* [빅데이터-스칼라,스파크로 시작하기](https://wikidocs.net/26134)
+
 ## 기타 Tip
 * [마크다운 markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 * [아키텍처 다이어그램용 솔루션 아이콘](https://cloud.google.com/icons/)
