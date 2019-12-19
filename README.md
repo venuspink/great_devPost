@@ -66,6 +66,7 @@
 
 ## 스칼라
 * [빅데이터-스칼라,스파크로 시작하기](https://wikidocs.net/26134)
+* [프로젝트에 스칼라 도입하기](https://sungjk.github.io/2017/10/12/why-use-scala.html)
 
 ## 기타 Tip
 * [마크다운 markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
