@@ -27,6 +27,7 @@
 * [MDN docs JS표준내장객체](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects)
 * [자바스크립트 비동기 처리 과정과 RxJS Scheduler](http://sculove.github.io/blog/2018/01/18/javascriptflow/#disqus_thread)
 * [ES6클래스 설명](https://beomy.tistory.com/15?category=591557)
+* [RJS의 모든것](https://gracefullight.dev/2019/04/30/RxJS%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83/)
 
 ## Vue JS
 * [JSP jstl+el과 함께 Vue 사용하기](https://stackoverflow.com/questions/42175382/vue-js-directives-do-not-work-in-jsp)
