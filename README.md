@@ -68,6 +68,7 @@
 * [빅데이터-스칼라,스파크로 시작하기](https://wikidocs.net/26134)
 * [프로젝트에 스칼라 도입하기](https://sungjk.github.io/2017/10/12/why-use-scala.html)
 * [자바 개발자를 위한 Scala](https://velog.io/@vies00/%EC%9E%90%EB%B0%94-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-Scala-bxk0ns8spr)
+* [스칼라 자료많은 블로그](https://knight76.tistory.com/entry/scala-cats-%EA%B3%B5%EB%B6%80-%EC%9E%90%EB%A3%8C?category=574876)
 
 ## 기타 Tip
 * [마크다운 markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
