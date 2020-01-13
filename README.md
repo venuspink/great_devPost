@@ -31,6 +31,7 @@
 
 ## Vue JS
 * [JSP jstl+el과 함께 Vue 사용하기](https://stackoverflow.com/questions/42175382/vue-js-directives-do-not-work-in-jsp)
+* [Vuejs 라이프사이클](https://beomy.tistory.com/47)
 
 ## 스프링
 * [component-scan / annotation-config / annotation-driven 차이점](http://hamait.tistory.com/322)
