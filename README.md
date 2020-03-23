@@ -45,6 +45,7 @@
 ## 앱개발, 플러터(Flutter) 
 * [구글 플러터(Flutter)를 시작하기까지…](https://medium.com/@changjoopark/%EA%B5%AC%EA%B8%80-%ED%94%8C%EB%9F%AC%ED%84%B0-flutter-%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-18c06cec95e3)
 * [[백기선] 플러터 Flutter 맛보기](https://www.youtube.com/watch?v=KOPVyBQrM78&t=5831s)
+* [lazy loading 페이징](https://pub.dev/packages/flutter_pagewise#-readme-tab-)
 
 ## 도커(docker)
 * [도커를 이용한 웹서비스 무중단 배포하기](https://subicura.com/2016/06/07/zero-downtime-docker-deployment.html)
