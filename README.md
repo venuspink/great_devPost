@@ -47,6 +47,9 @@
 * [[백기선] 플러터 Flutter 맛보기](https://www.youtube.com/watch?v=KOPVyBQrM78&t=5831s)
 * [lazy loading 페이징](https://pub.dev/packages/flutter_pagewise#-readme-tab-)
 
+## 딥러닝, 텐서플로
+* [러닝텐서플로](https://excelsior-cjh.tistory.com/149?category=940399)
+
 ## 도커(docker)
 * [도커를 이용한 웹서비스 무중단 배포하기](https://subicura.com/2016/06/07/zero-downtime-docker-deployment.html)
 * [Docker container IP 확인](https://bluese05.tistory.com/36)
