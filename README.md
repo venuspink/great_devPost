@@ -50,6 +50,7 @@
 ## 딥러닝, 텐서플로
 * [러닝텐서플로](https://excelsior-cjh.tistory.com/149?category=940399)
 * [텐서플로한글번역문서](https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/g3doc/tutorials/mnist/beginners/)
+* [심장질환예측](https://bioinformaticsandme.tistory.com/262?category=809683)
 
 ## 도커(docker)
 * [도커를 이용한 웹서비스 무중단 배포하기](https://subicura.com/2016/06/07/zero-downtime-docker-deployment.html)
