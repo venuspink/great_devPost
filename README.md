@@ -54,6 +54,7 @@
 * [에어비앤비 가격 예측](https://velog.io/@leejh3224/Machine-Learning-%EC%97%90%EC%96%B4%EB%B9%84%EC%95%A4%EB%B9%84-%EA%B0%80%EA%B2%A9-%EC%98%88%EC%B8%A1)
 * [판다스기본사용법](https://dandyrilla.github.io/2017-08-12/pandas-10min/)
 * [머신러닝 강의노트](https://wikidocs.net/4213)
+* [사이킷런_부동산가격예측하기](https://roboreport.co.kr/scikit-learn%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EB%B6%80%EB%8F%99%EC%82%B0-%EA%B0%80%EA%B2%A9-%EC%98%88%EC%B8%A1%ED%95%98%EA%B8%B0-4-linear-regression-%EC%82%AC%EC%9A%A9%EB%B2%95/)
 
 ## 도커(docker)
 * [도커를 이용한 웹서비스 무중단 배포하기](https://subicura.com/2016/06/07/zero-downtime-docker-deployment.html)
