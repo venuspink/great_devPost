@@ -53,6 +53,7 @@
 * [심장질환예측](https://bioinformaticsandme.tistory.com/262?category=809683)
 * [에어비앤비 가격 예측](https://velog.io/@leejh3224/Machine-Learning-%EC%97%90%EC%96%B4%EB%B9%84%EC%95%A4%EB%B9%84-%EA%B0%80%EA%B2%A9-%EC%98%88%EC%B8%A1)
 * [판다스기본사용법](https://dandyrilla.github.io/2017-08-12/pandas-10min/)
+* [머신러닝 강의노트](https://wikidocs.net/4213)
 
 ## 도커(docker)
 * [도커를 이용한 웹서비스 무중단 배포하기](https://subicura.com/2016/06/07/zero-downtime-docker-deployment.html)
