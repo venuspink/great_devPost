@@ -47,7 +47,7 @@
 * [[백기선] 플러터 Flutter 맛보기](https://www.youtube.com/watch?v=KOPVyBQrM78&t=5831s)
 * [lazy loading 페이징](https://pub.dev/packages/flutter_pagewise#-readme-tab-)
 
-## 딥러닝, 텐서플로
+## 머신러닝, 딥러닝, 텐서플로
 * [러닝텐서플로](https://excelsior-cjh.tistory.com/149?category=940399)
 * [텐서플로한글번역문서](https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/g3doc/tutorials/mnist/beginners/)
 * [심장질환예측](https://bioinformaticsandme.tistory.com/262?category=809683)
@@ -56,6 +56,9 @@
 * [머신러닝 강의노트](https://wikidocs.net/4213)
 * [사이킷런_부동산가격예측하기](https://roboreport.co.kr/scikit-learn%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EB%B6%80%EB%8F%99%EC%82%B0-%EA%B0%80%EA%B2%A9-%EC%98%88%EC%B8%A1%ED%95%98%EA%B8%B0-4-linear-regression-%EC%82%AC%EC%9A%A9%EB%B2%95/)
 * [문과생도 이해하는 딥러닝](https://sacko.tistory.com/10)
+
+## 파이썬
+* [파이썬람다사용법](https://dojang.io/mod/page/view.php?id=2359)
 
 ## 도커(docker)
 * [도커를 이용한 웹서비스 무중단 배포하기](https://subicura.com/2016/06/07/zero-downtime-docker-deployment.html)
