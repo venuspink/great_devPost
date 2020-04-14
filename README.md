@@ -58,6 +58,8 @@
 * [문과생도 이해하는 딥러닝](https://sacko.tistory.com/10)
 * [XGBoost요약](https://crazyj.tistory.com/224)
 * [XGBoost기본예제](http://swlock.blogspot.com/2019/01/xgboost-python.html)
+* [데이터전처리 좋은 블로그](https://bkshin.tistory.com/entry/DATA-12?category=1042793)
+* [케글 타이타닉 생존자 분석](https://writeren.tistory.com/77)
 
 ## 파이썬
 * [파이썬람다사용법](https://dojang.io/mod/page/view.php?id=2359)
