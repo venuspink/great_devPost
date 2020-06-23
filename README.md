@@ -112,3 +112,6 @@
 * [개발하며 배우는 Polymer (1/2)](https://medium.com/@grunty/%EA%B0%9C%EB%B0%9C%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-polymer-1-2-cbea722fc24f)
 * [Shadow DOM 201 번역본](https://www.html5rocks.com/ko/tutorials/webcomponents/shadowdom-201/)
 * [Shadow DOM v1: 자체 포함 웹 구성 요소](https://developers.google.com/web/fundamentals/web-components/shadowdom?hl=ko)
+
+## 대출 이야기
+* [디딤돌대출](https://kin.naver.com/qna/detail.nhn?d1id=4&dirId=40203&docId=359319755&qb=7LKt7JW9IOuLueyyqCDtm4Qg65SU65Sk64+MIOuMgOy2nA==&enc=utf8&section=kin&rank=2&search_sort=0&spq=0)
